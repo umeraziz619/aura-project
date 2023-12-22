@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165612299024",
+    "project_id": "auraproject-a7c38",
+    "storage_bucket": "auraproject-a7c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165612299024:android:34f89a470bd8546e577b95",
+        "android_client_info": {
+          "package_name": "com.auraproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165612299024-ml7k1hp5h99em4tra9kjl8e0aomd6scb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.auraproject",
+            "certificate_hash": "3caaf99557ae54aa58ad17483751fd3cc1f97fe7"
+          }
+        },
+        {
+          "client_id": "165612299024-0lauu1g5f9ugb49rj9c9po9fag9o9grl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPSgLF3UIWqfSXTT_jOJGf3WBTOFg1_48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165612299024-0lauu1g5f9ugb49rj9c9po9fag9o9grl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
